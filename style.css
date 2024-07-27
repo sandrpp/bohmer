@@ -1,0 +1,133 @@
+
+
+body {
+    background: #f2f4f7;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    
+}
+@media (min-width: 768px) {
+    body {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+}
+
+/*
+Überschriften
+*/
+
+h1 {
+    font-family: "Merriweather", serif;
+    font-size: 400%;
+    font-weight: 8000;
+    margin-bottom: 10px;
+}
+h2 {
+    font-family: "Merriweather", serif;
+    font-size: 250%;
+    font-weight: 800;
+
+}
+h3{
+    font-family: "Merriweather", serif;
+    font-size: 300%;
+    font-weight: 800;
+}
+
+.description{
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+/*
+Hintergrundbild
+*/
+
+.upper-area {
+    background-image: url("/pictures/hintergrund.png");
+    background-repeat: no-repeat;
+    background-position: center left;
+    float: left;
+}
+
+.instagram {
+    color: black;
+    background-image: url(/pictures/linkedin.jpg);
+    background-size: 170%;
+    background-repeat: no-repeat;
+    background-position-x: -185px;
+    background-position-y: -30px;
+    background-color: white;
+    border-radius: 12px;
+    border-width: 2px;
+    border-style: solid;
+    margin-right: 350px;
+    margin-left: 350px;
+    margin-bottom: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.instagram h3{
+    color: black;
+    text-decoration: underline;
+}
+.instagram img{
+    height: 80px;
+    width: 80px;;
+}
+.linkedin {
+    color: black;
+    background-image: url(/pictures/linkedin.jpg);
+    background-size: 170%;
+    background-repeat: no-repeat;
+    background-position-x: -185px;
+    background-position-y: -30px;
+    background-color: white;
+    border-radius: 12px;
+    border-width: 2px;
+    border-style: solid;
+    margin-right: 350px;
+    margin-left: 350px;
+    margin-bottom: 40px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.linkedin h3{
+    color: black;
+    text-decoration: underline;
+}
+.linkedin img {
+    height: 50px;
+    width: 205px;;
+}
+.xing {
+    color: black;
+    background-image: url(/pictures/linkedin.jpg);
+    background-size: 170%;
+    background-repeat: no-repeat;
+    background-position-x: -185px;
+    background-position-y: -30px;
+    background-color: white;
+    border-radius: 12px;
+    border-width: 2px;
+    border-style: solid;
+    margin-right: 350px;
+    margin-left: 350px;
+    margin-bottom: 70px;
+    padding-top: 7.5px;
+    padding-bottom: 7.5px;
+}
+.xing h3{
+    color: black;
+    text-decoration: underline;
+}
+.xing img{
+    height: 85px;
+    width: 160px;;
+}
