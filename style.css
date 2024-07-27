@@ -50,7 +50,7 @@ Hintergrundbild
 */
 
 .upper-area {
-    background-image: url("/pictures/hintergrund.png");
+    background-image: url("pictures/hintergrund.png");
     background-repeat: no-repeat;
     background-position: center left;
     float: left;
