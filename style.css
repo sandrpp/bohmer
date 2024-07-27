@@ -58,7 +58,7 @@ Hintergrundbild
 
 .instagram {
     color: black;
-    background-image: url(/pictures/linkedin.jpg);
+    background-image: url(pictures/linkedin.jpg);
     background-size: 170%;
     background-repeat: no-repeat;
     background-position-x: -185px;
@@ -83,7 +83,7 @@ Hintergrundbild
 }
 .linkedin {
     color: black;
-    background-image: url(/pictures/linkedin.jpg);
+    background-image: url(pictures/linkedin.jpg);
     background-size: 170%;
     background-repeat: no-repeat;
     background-position-x: -185px;
@@ -108,7 +108,7 @@ Hintergrundbild
 }
 .xing {
     color: black;
-    background-image: url(/pictures/linkedin.jpg);
+    background-image: url(pictures/linkedin.jpg);
     background-size: 170%;
     background-repeat: no-repeat;
     background-position-x: -185px;
