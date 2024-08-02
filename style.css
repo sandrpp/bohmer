@@ -52,8 +52,14 @@ Hintergrundbild
 .upper-area {
     background-image: url("pictures/hintergrund.png");
     background-repeat: no-repeat;
-    background-position: center left;
+    background-position: center center;
     float: left;
+}
+
+.links {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .instagram {
@@ -67,8 +73,7 @@ Hintergrundbild
     border-radius: 12px;
     border-width: 2px;
     border-style: solid;
-    margin-right: 350px;
-    margin-left: 350px;
+    width: 300px;
     margin-bottom: 40px;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -92,8 +97,7 @@ Hintergrundbild
     border-radius: 12px;
     border-width: 2px;
     border-style: solid;
-    margin-right: 350px;
-    margin-left: 350px;
+    width: 300px;
     margin-bottom: 40px;
     padding-top: 25px;
     padding-bottom: 25px;
@@ -117,8 +121,7 @@ Hintergrundbild
     border-radius: 12px;
     border-width: 2px;
     border-style: solid;
-    margin-right: 350px;
-    margin-left: 350px;
+    width: 300px;
     margin-bottom: 70px;
     padding-top: 7.5px;
     padding-bottom: 7.5px;
