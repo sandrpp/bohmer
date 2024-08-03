@@ -4,16 +4,9 @@ body {
     background: #f2f4f7;
     max-width: 1200px;
     margin: 0 auto;
-    padding-left: 10px;
-    padding-right: 10px;
     text-align: center;
-
-}
-@media (min-width: 768px) {
-    body {
-        padding-left: 50px;
-        padding-right: 50px;
-    }
+    display: flex;
+    flex-direction: column;
 }
 
 /*
